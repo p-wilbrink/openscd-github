@@ -6,7 +6,7 @@ Date: 2023-03-23
 
 Accepted
 
-Amended by [2. Use Pull Requests and ADRs for Async Decision Process](0002-use-pull-requests-and-adrs-for-async-decision-process.md)
+Amended by [2. Use Pull Requests and ADRs for Async Decision Process](0002-use-pull-requests-and-adrs-for-async-decision-making.md)
 
 ## Context
 

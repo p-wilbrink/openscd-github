@@ -1,4 +1,4 @@
-# 2. Use Pull Requests and ADRs for Async Decision Process
+# 2. Use Pull Requests and ADRs for Async Decision Making
 
 Date: 2023-03-23
 
