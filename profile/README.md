@@ -28,4 +28,4 @@ End-user manual: https://github.com/openscd/open-scd/wiki
 
 Downstream project with back-end services: https://github.com/com-pas
 
-Slack channel: #openscd on lfenergy.slack.com
+Slack channel: #openscd on https://lfenergy.slack.com
