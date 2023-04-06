@@ -16,7 +16,7 @@ Unlike proprietary, vendor specific, desktop oriented, limited integration optio
 
 Our product allow offline editing using web-browsers gives flexibility, control over your own roadmap, prevent a vendor-lock-in and uses the power of open source, modern technologies to help the energy transition.
 
-
+---
 
 
 **Here are some ideas to get you started:**
