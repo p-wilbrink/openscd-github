@@ -14,6 +14,8 @@ Our product allow offline editing using web-browsers gives flexibility, control 
 **Here are some ideas to get you started:**
 
 👩‍💻 Useful resources
+
+
 Pulbic hosted version: https://openscd.github.io/
 
 End-user manual: https://github.com/openscd/open-scd/wiki
