@@ -2,19 +2,19 @@
 
 🙋‍♀️ OpenSCD product vision
 
-For utility/integrator/vendor companies​
+**For** utility/integrator/vendor companies​
 
-Who want to have flexibility, agility and efficiency in their SCL configurations​
+**Who want** to have flexibility, agility and efficiency in their SCL configurations​
 
 **OpenSCD**​
 
-is an IEC 61850 SCL configuration tool​
+**is an** IEC 61850 SCL editing tool​
 
-That offers a front-end, open source, extensible, customizable, user friendly, SCL editing​
+**That offers** a web front-end, open source, extensible, customizable, user friendly, SCL editing​
 
-Unlike proprietary, vendor specific, desktop oriented, limited integration options, not user friendly tools ​
+**Unlike** proprietary and vendor specific tools​
 
-Our product allow offline editing using web-browsers gives flexibility, control over your own roadmap, prevent a vendor-lock-in and uses the power of open source, modern technologies to help the energy transition.
+**Our product** gives you flexibility and control over your own raodmap and this ultimatevely prevents any vendor-lock-in. Using the community open-source approach to agree on software level will help you to accelerate the energy transition. OpenSCD aims to provide modules to do system configuration as well as system specification.
 
 ---
 
