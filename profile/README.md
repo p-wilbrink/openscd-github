@@ -11,7 +11,7 @@ Our product gives you flexibility and control over your own raodmap and this ult
 
 ## 👩‍💻 Useful resources
 
-👉 Pulbic hosted version: https://openscd.github.io/  
+👉 Public hosted version: https://openscd.github.io/  
 👉 End-user manual: https://github.com/openscd/open-scd/wiki  
 👉 Downstream project with back-end services: https://github.com/com-pas  
 👉 Slack channel: #openscd on https://lfenergy.slack.com
