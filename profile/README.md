@@ -4,7 +4,6 @@
 **For:** utility/integrator/vendor companies​  
 **Who want:** to have flexibility, agility and efficiency in their SCL configurations​  
 **That offers:** a web front-end, open-source, extensible, customizable, user-friendly SCL editing​  
-**Unlike:** proprietary and vendor specific tools​
 
 Our product gives you flexibility and control over your own roadmap, and this ultimately prevents vendor-lock-in. The open-source community approach to developing software will help accelerate the energy transition. OpenSCD aims to provide modules to do system configuration as well as system specification.
 
