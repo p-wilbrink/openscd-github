@@ -1,4 +1,7 @@
-![OpenSCD Header Picture](./assets/header.png)
+<div align="center">
+  <img alt="OpenSCD Header Picture" src="https://raw.githubusercontent.com/openscd/.github/main/profile/assets/header.png">
+ </div>
+
 # ⚡️ OpenSCD - IEC 61850 SCL editing tool​
 
 **For:** utility/integrator/vendor companies​  
