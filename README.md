@@ -1,9 +1,14 @@
-# OpenSCD
+# OpenSCD Architecture
 
-## Decisions
 
-The following decisions apply to all repositories and projects in the organization
-unless stated otherwise:
+## Guides
+To add a guide, simple add a `.md` file in the `collections/_guides` directory.
 
-⚖️ [1. Record architecture decisions](doc/adr/0001-record-architecture-decisions.md)  
-⚖️ [2. Use Pull Requests and ADRs for Async Decision Making](doc/adr/0002-use-pull-requests-and-adrs-for-async-decision-making.md)
+## Components
+To add a component, simply add a `.md` file in the `collections/_components` directory.
+
+## Plugins
+To add a plugin, simply add a `.md` file in the `collections/_plugins` directory.
+
+## Page
+To add a page, simply add a `.md` file in the `collections/pages` directory.
